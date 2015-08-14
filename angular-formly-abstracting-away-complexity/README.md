@@ -14,4 +14,4 @@ So come on, and let's make forms less painful and more delightful.
 ## Resources and Links
 
 - Documentation: [docs.angular-formly.com](http://docs.angular-formly.com)
-- Slides: [bit.ly/ng-formly-slides](http://bit.ly/ng-formly-slides
+- Slides: [bit.ly/ng-formly-slides](http://bit.ly/ng-formly-slides)
