@@ -1,0 +1,22 @@
+<h3>Here are some things. You can delete them.</h3>
+
+<md-container>
+    <md-grid-list
+            md-cols-gt-md="3" md-cols-sm="1" md-cols-md="2"
+            md-row-height="2:1"
+            md-gutter="4px">
+        <md-grid-tile ng-repeat="tile in tlc.tiles">
+            <div class="fade-me">
+                <md-grid-tile-header>
+                    <md-button
+                            fade-out="tile.deleted"
+                            ng-click="tlc.deleteTile(tile)"
+                            callback="tlc.doDelete(tile)">
+                        {{tile.title}} <span class="fa fa-trash"></span>
+                    </md-button>
+                </md-grid-tile-header>
+                {{tile.caption}}
+            </md-grid-tile>
+        </div>
+    </md-grid-list>
+</md-container>
