@@ -1,0 +1,3 @@
+### Oklahoma Code is...
+
+That framework that dude on your team who sits in the corner spent 6 months working on because he's so much smarter than the Angular/React/Ember/Backbone communities.

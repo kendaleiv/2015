@@ -1,0 +1,1 @@
+<img src="../resources/profile.png" width="60%"></img>

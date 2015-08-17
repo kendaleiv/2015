@@ -1,0 +1,1 @@
+<img src="../resources/thank-you.png" width="60%"></img>

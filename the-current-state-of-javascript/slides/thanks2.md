@@ -1,0 +1,1 @@
+<img src="../resources/dance.gif" width="60%"></img>

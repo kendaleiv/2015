@@ -1,0 +1,3 @@
+### Oklahoma Code is...
+
+That thing you didn't write a test for because you couldn't figure out how because it messes the DOM in ways can't iosalate or mock out.

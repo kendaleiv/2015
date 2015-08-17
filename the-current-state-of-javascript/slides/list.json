@@ -1,0 +1,164 @@
+[
+  {
+    "filename": "index.md",
+    "attr": {
+      "data-background-image": "http://localhost:9000/resources/logo.gif",
+      "data-background-repeat": "no-repeat",
+      "data-background-attachment": "fixed",
+      "data-background-position": "50px 50px",
+      "data-background-size": "20%"
+    }
+  },
+  [
+    "thanks.md",
+    "thanks2.md"
+  ],
+  [
+    "bio/who.md",
+    "bio/jonwho.md",
+    "bio/profile.md",
+    {
+      "filename": "bio/jon.md",
+      "attr": {
+        "data-background-image": "http://localhost:9000/resources/logo.gif",
+        "data-background-repeat": "no-repeat",
+        "data-background-attachment": "fixed",
+        "data-background-position": "50px 50px",
+        "data-background-size": "20%"
+      }
+    }
+  ],
+  [
+    "history/what.md",
+    "history/goodparts.md",
+    "history/history.md",
+    "history/real.md",
+    "history/moving-on.md",
+    "history/vm.md",
+    "history/client.md",
+    "history/node.md"
+  ],
+  [
+    "today/lookslike.md",
+    "today/notlooklike.md"
+  ],
+  [
+    "oklahoma/isok.md",
+    {
+      "filename": "oklahoma/ok.md",
+      "attr": {
+        "data-background-image": "http://localhost:9000/resources/ok83.jpg",
+        "data-background-repeat": "no-repeat",
+        "data-background-attachment": "fixed",
+        "data-background-position": "10% 90%",
+        "data-background-size": "40%"
+      }
+    },
+    {
+      "filename": "oklahoma/texas.md",
+      "attr": {
+        "data-background-image": "http://localhost:9000/resources/secede.jpg",
+        "data-background-repeat": "no-repeat",
+        "data-background-attachment": "fixed",
+        "data-background-position": "10% 90%",
+        "data-background-size": "40%"
+      }
+    },
+    "oklahoma/whatisok.md",
+    "oklahoma/whatisok2.md",
+    "oklahoma/whatisok3.md",
+    "oklahoma/whatisok4.md",
+    "oklahoma/whatisok5.md",
+    "oklahoma/whatisok6.md",
+    "oklahoma/whatisok7.md",
+    "oklahoma/whatisok8.md",
+    "oklahoma/whatisok9.md"
+  ],
+  [
+    "better/better.md",
+    "better/better2.md",
+    "better/better3.md",
+    "better/better4.md",
+    "better/better5.md",
+    "better/better6.md",
+    "better/better7.md",
+    "better/better8.md"
+  ],
+  [
+    "testing/testing.md",
+    "testing/production.md",
+    "testing/wedont.md",
+    "testing/fainting.md",
+    "testing/spec.md",
+    "testing/tdd.md",
+      "testing/mvc.md",
+    "testing/backend.md",
+    "testing/frameworks.md",
+    "testing/testable.md"
+  ],
+  [
+    "frameworks/frameworks.md",
+    "frameworks/which.md",
+    "frameworks/vocab1.md",
+    "frameworks/vocab2.md",
+    {
+      "filename": "frameworks/vocab3.md",
+      "attr": {
+        "data-background-image": "http://localhost:9000/resources/services.png",
+        "data-background-repeat": "no-repeat",
+        "data-background-attachment": "fixed",
+        "data-background-position": "10% 90%",
+        "data-background-size": "25%"
+      }
+    },
+    "frameworks/roll.md",
+    "frameworks/fork.md",
+    "frameworks/fork2.md",
+    "frameworks/enhance.md"
+  ],
+  [
+    "modularity/mandr.md",
+    "modularity/sep.md",
+    "modularity/state.md",
+    "modularity/event.md"
+  ],
+  [
+    "build-systems/build.md",
+    {
+      "filename": "build-systems/grunt.md",
+      "attr": {
+        "data-background-image": "http://localhost:9000/resources/grunt.png",
+        "data-background-repeat": "no-repeat",
+        "data-background-attachment": "fixed",
+        "data-background-position": "50% 90%",
+        "data-background-size": "40%"
+      }
+    },
+    {
+      "filename": "build-systems/gulp.md",
+      "attr": {
+        "data-background-image": "http://localhost:9000/resources/gulp.png",
+        "data-background-repeat": "no-repeat",
+        "data-background-attachment": "fixed",
+        "data-background-position": "50% 90%",
+        "data-background-size": "10%"
+      }
+    },
+    {
+      "filename": "build-systems/webpack.md",
+      "attr": {
+        "data-background-image": "http://localhost:9000/resources/webpack.svg",
+        "data-background-repeat": "no-repeat",
+        "data-background-attachment": "fixed",
+        "data-background-position": "50% 90%",
+        "data-background-size": "20%"
+      }
+    }
+  ],
+  "deps.md",
+  [
+    "closing/realprogrammers.md",
+    "closing/hifive.md",
+    "closing/thanks.md"
+  ]
+]
