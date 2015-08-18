@@ -1,0 +1,3 @@
+### Oklahoma Code is...
+
+That thing you didn't write a test for because it's so intertwined with everything else, you can't figure out what it's dependencies are, much less mock them. 

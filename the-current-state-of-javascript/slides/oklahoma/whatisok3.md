@@ -1,0 +1,3 @@
+### Oklahoma Code is...
+
+The Angular app that's filled with $watch because its neat. 

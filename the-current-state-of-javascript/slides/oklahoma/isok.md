@@ -1,0 +1,1 @@
+<img src="../resources/ok83.jpg" width="75%"></img>
